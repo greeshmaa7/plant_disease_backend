@@ -1,0 +1,8 @@
+flask
+torch
+torchvision
+pillow
+numpy
+pandas
+matplotlib
+flask-cors
